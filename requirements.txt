@@ -1,0 +1,4 @@
+# Core dependencies
+# Pure Python standard library is sufficient for core heuristics
+# Optional accelerated network/DNS lookups:
+dnspython>=2.4.0
